@@ -5,4 +5,13 @@ that is whay i have first line
 lalalalalala
 lalalalala
 alalalalala
+<<<<<<< HEAD
 alalalalala
+=======
+alalalalala
+
+lalalala
+lalala
+lalal
+alalalal
+>>>>>>> feature
